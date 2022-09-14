@@ -1,0 +1,1 @@
+..\..\..\..\envs\insta_fastapi\Scripts\Activate.ps1
